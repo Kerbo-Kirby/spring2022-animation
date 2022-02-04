@@ -102,3 +102,7 @@ images/tmp/light (not set; using scene name)_0010.png
 *.png
 
 images/tmp/dsad(not set; using scene name)
+
+*.jpg
+
+images/

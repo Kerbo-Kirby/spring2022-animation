@@ -106,3 +106,19 @@ images/tmp/dsad(not set; using scene name)
 *.jpg
 
 images/
+
+backup/cloud_bak1.hipnc
+
+backup/cloud_bak2.hipnc
+
+backup/cloud_bak3.hipnc
+
+backup/cloud_bak4.hipnc
+
+backup/cloud_bak5.hipnc
+
+backup/water_bak10.hipnc
+
+cloud.hipnc
+
+water.hipnc
